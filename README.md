@@ -1,37 +1,20 @@
-<!--
-   README.md template
+# EPN Core (epn:) Discipline Dictionary
 
-   In this template, values delimited by braces (e.g., "{value}") should be
-   replaced by the appropriate values for your namespace. The braces
-   should then be removed. Example values are provided as comments for
-   potentially mysterious cases.
--->
-
-# {dictionary name} ({prefix:}) {"Discipline" or "Local"} Dictionary
-<!-- EXAMPLES
-   Spectral (sp:) Discipline Dictionary
-   DART Mission (dart:) Local Dictionary
--->
-
-The {dictionary name} dictionary provides classes and attributes for
-{brief functional description}
+The Europlanet (EPN) Core dictionary provides classes and attributes for
+implementing the EPN core planetary science metadata in PDS4 contexts.
+It was developed as part of the VESPA (Virtual European Solar and Planetary 
+Access) project as an extension of the IVOA Table Access Protocol (TAP)
+known as EPN-TAP. Protocol
 
 ### Steward
-{steward name} ({steward GitHub handle}), {steward node}
-<!-- EXAMPLE
-     Anne Raugh (@acraugh), Small Bodies Node (SBN)
--->
+    Baptiste Cecconi (@BaptisteCecconi), Europlanet (EPN)
+    Anne Raugh (@acraugh), PDS Small Bodies Node (SBN)
 
 # Documentation
 
-<!-- The following assumes the complete documentation set exists. If it
-does not, edit the sentence and link accordingly. -->
 The User's Guide and detailed documentation for using this dictionary in
 label design and processing
-are located at https://pds-data-dictionaries.github.io/{repo id}.
-<!-- EXAMPLE
-     are located at https://pds-data-dictionaries.github.io/ldd-template.
--->
+are located at https://pds-data-dictionaries.github.io/epncore.
 
 # Latest Release
 
@@ -92,7 +75,7 @@ GitHub repo URL.-->
 
 There is a common place to request enhancements and report problems for
 any PDS-curated dictionary - the [PDS4 Issue Repo](https://github.com/pds-data-dictionaries/PDS4-LDD-Issue-Repo/issues/new/choose).
-Search for the \[{repo id}\] update request block and click the green
+Search for the \[epncore\] update request block and click the green
 "Get Started" button.
 
 ## Contribute Code or documentation

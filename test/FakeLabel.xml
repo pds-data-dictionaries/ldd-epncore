@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1Q00.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://pds.nasa.gov/pds4/epncore/v2/PDS4_EPN_1Q00_2000.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<Product_Observational xmlns="http://pds.nasa.gov/pds4/pds/v1"
+    xmlns:epn="http://voparis-ns.obspm.fr/pds4/epn/v2"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pds.nasa.gov/pds4/pds/v1 http://pds.nasa.gov/pds4/pds/v1/PDS4_PDS_1Q00.xsd
+                        http://voparis-ns.obspm.fr/pds4/epn/v2 http://pds.nasa.gov/pds4/epncore/v2/PDS4_EPN_1Q00_2000.xsd">
+    <Identification_Area>
+        <logical_identifier>urn:nasa:pds:bundle:collection:product</logical_identifier>
+        <version_id>1.0</version_id>
+        <title>Fake Label for Testing</title>
+        <information_model_version>1.26.0.0</information_model_version>
+        <product_class>Product_Observational</product_class>
+    </Identification_Area>
+    
+    <Observation_Area>
+        <Time_Coordinates>
+            <start_date_time xsi:nil="true" nilReason="inapplicable"/>
+            <stop_date_time xsi:nil="true" nilReason="inapplicable"/>
+        </Time_Coordinates>
+        <Investigation_Area>
+            <name>No Specific Investigation</name>
+            <type>Individual Investigation</type>
+            <Internal_Reference>
+                <lid_reference>urn:nasa:pds:context:investigation:individual.none</lid_reference>
+                <reference_type>data_to_investigation</reference_type>
+            </Internal_Reference>
+        </Investigation_Area>
+        <Observing_System>
+            <Observing_System_Component>
+                <name>None</name>
+                <type>Instrument</type>
+            </Observing_System_Component>
+        </Observing_System>
+        <Target_Identification>
+            <name>None</name>
+            <type>Comet</type>
+        </Target_Identification>
+        
+        <Discipline_Area>
+            <epn:VESPA_EPNcore_Parameters>
+                <epn:granule_uid></epn:granule_uid>
+                <epn:granule_gid/>
+                <epn:obs_id></epn:obs_id>
+                <epn:service_title></epn:service_title>
+                <epn:dataproduct_type></epn:dataproduct_type>
+                <epn:measurement_type></epn:measurement_type>
+                <epn:processing_level></epn:processing_level>
+                <epn:target_class/>
+                <epn:target_name/>
+            </epn:VESPA_EPNcore_Parameters>
+        </Discipline_Area>
+    </Observation_Area>
+    
+    <File_Area_Observational>
+        <File>
+            <file_name>No.Data</file_name>
+        </File>
+        
+        <Array_1D>
+            <offset unit="byte">0</offset>
+            <axes>1</axes>
+            <axis_index_order>Last Index Fastest</axis_index_order>
+            <Element_Array>
+                <data_type>SignedByte</data_type>
+            </Element_Array>
+            <Axis_Array>
+                <axis_name>Vector</axis_name>
+                <elements>1</elements>
+                <sequence_number>1</sequence_number>
+            </Axis_Array>
+        </Array_1D>
+    </File_Area_Observational>
+</Product_Observational>
