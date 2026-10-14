@@ -1,0 +1,346 @@
+
+>>  INFO LDDTOOL Version: 16.1.3
+>>  INFO IM Version Id: 1.21.0.0
+>>  INFO IM Namespace Id: pds
+>>  INFO IM Label Version Id: 1.27
+>>  INFO Date: Wed Oct 14 13:56:29 UTC 2026
+>>  INFO PARENT_DIR: /tmp/lddtool-16.1.3/Data/
+
+>>> INFO Init:  - Config.Properties Namespace Id Found:epn
+>>> INFO Init:  - Config.Properties Namespace Id Using:epn
+>>> INFO Init:  - LDD Dictionary_Type is Discipline
+>>> INFO Attribute: <time_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_sampling_step_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_sampling_step_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_sampling_step_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_exp_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_exp_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_exp_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_range_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_range_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_range_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_sampling_step_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_sampling_step_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_sampling_step_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_resolution_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_resolution_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spectral_resolution_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <ra_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <ra_resol_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <ra_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <ra_resol_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <ra_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <ra_resol_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <dec_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <dec_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <dec_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <sun_distance_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <sun_distance_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <sun_distance_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lat_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lat_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <alt_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <alt_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <alt_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <x_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <x_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <x_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <y_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <y_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <y_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <incidence_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <incidence_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <incidence_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <emergence_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <emergence_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <emergence_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <phase_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <phase_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <phase_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <instrument_host_name> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <instrument_name> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <creation_date> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <modification_date> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <release_date> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <access_estsize> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <access_md5> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <thumbnail_url> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <file_name> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <species> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <filter> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <alt_target_name> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_region> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <feature_name> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <doi> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <url> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <bibcode> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <internal_reference> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <external_link> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subsolar_longitude_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subsolar_longitude_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subsolar_longitude_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subsolar_latitude_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subsolar_latitude_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subsolar_latitude_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subobserver_longitude_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subobserver_longitude_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subobserver_longitude_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subobserver_latitude_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subobserver_latitude_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <subobserver_latitude_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <radial_distance_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <radial_distance_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <radial_distance_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <altitude_fromshape_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <altitude_fromshape_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <altitude_fromshape_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <solar_longitude_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <solar_longitude_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <solar_longitude_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <local_time_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <local_time_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <local_time_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_distance_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_distance_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_distance_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_time_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_time_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_time_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <earth_distance_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <earth_distance_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <earth_distance_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_range_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_range_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_range_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_sampling_step_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_sampling_step_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_sampling_step_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_resolution_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_resolution_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_spectral_resolution_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_range_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_range_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_sampling_step_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_sampling_step_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_sampling_step_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_bin_width_value> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_bin_width_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <particle_pitch_angle_bin_width_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <mass> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <sideral_rotation_period> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <mean_radius> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <equatorial_radius> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <polar_radius> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <semi_major_axis> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <publisher> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spatial_coordinate_description> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <spatial_origin> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_origin> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <time_scale> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <producer_name> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <producer_institute> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <sample_classification> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <grain_size_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <grain_size_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <azimuth_min> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <azimuth_max> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <pressure> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <temperature> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <sample_desc> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <setup_desc> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <data_calibration_desc> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <geometry_type> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <measurement_atmosphere> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <obs_mode> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <detector_name> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <opt_elem> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <detector_orientation> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <measurement_unit> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <proposal_id> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <proposal_pi> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <proposal_title> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <platesc> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <campaign> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_apparent_radius> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <north_pole_position> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_primary_hemisphere> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <target_secondary_hemisphere> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <skr_n> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <skr_s> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lon_io> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_io> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lon_eur> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_eur> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lon_gan> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_gan> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lon_cal> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_cal> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_mim> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_enc> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_the> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_dio> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_rhe> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_tit> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <rs_cas> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lat_cas> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_cas> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <rs_gal> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lat_gal> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_gal> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <rs_jun> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lat_jun> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <lt_jun> - A 'nillable' attribute was found that is not a required attribute in at least one class.
+>>> INFO Attribute: <dataproduct_type> - The default minimum characters provided by the attribute's data type is being overridden with 2
+>>> INFO Attribute: <dataproduct_type> - The default maximum characters provided by the attribute's data type is being overridden with 2
+>>> INFO Attribute: <target_name> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <ra_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <ra_value> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <ra_resol_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <ra_resol_value> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <ra_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <ra_min> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <ra_resol_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <ra_resol_min> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <ra_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <ra_max> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <ra_resol_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <ra_resol_max> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <dec_value> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <dec_value> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <dec_min> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <dec_min> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <dec_max> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <dec_max> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <sun_distance_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <sun_distance_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <sun_distance_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <lon_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <lon_value> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <lon_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <lon_min> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <lon_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <lon_max> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <lat_value> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <lat_value> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <lat_min> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <lat_min> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <lat_max> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <lat_max> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <r_value> - The default maximum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <r_min> - The default maximum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <r_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <colat_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <colat_value> - The default maximum value provided by the attribute's data type is being overridden with 180
+>>> INFO Attribute: <colat_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <colat_min> - The default maximum value provided by the attribute's data type is being overridden with 180
+>>> INFO Attribute: <colat_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <colat_max> - The default maximum value provided by the attribute's data type is being overridden with 180
+>>> INFO Attribute: <r_eq_value> - The default maximum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <r_eq_min> - The default maximum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <r_eq_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <instrument_host_name> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <instrument_name> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <processing_level> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <modification_date> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <modification_date> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <release_date> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <file_name> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <subsolar_longitude_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <subsolar_longitude_value> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <subsolar_longitude_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <subsolar_longitude_min> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <subsolar_longitude_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <subsolar_longitude_max> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <subsolar_latitude_value> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <subsolar_latitude_value> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <subsolar_latitude_min> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <subsolar_latitude_min> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <subsolar_latitude_max> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <subsolar_latitude_max> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <subobserver_longitude_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <subobserver_longitude_value> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <subobserver_longitude_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <subobserver_longitude_min> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <subobserver_longitude_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <subobserver_longitude_max> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <subobserver_latitude_value> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <subobserver_latitude_value> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <subobserver_latitude_min> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <subobserver_latitude_min> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <subobserver_latitude_max> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <subobserver_latitude_max> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <radial_distance_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <radial_distance_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <radial_distance_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <solar_longitude_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <solar_longitude_value> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <solar_longitude_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <solar_longitude_min> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <solar_longitude_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <solar_longitude_max> - The default maximum value provided by the attribute's data type is being overridden with 360
+>>> INFO Attribute: <local_time_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <local_time_value> - The default maximum value provided by the attribute's data type is being overridden with 24
+>>> INFO Attribute: <local_time_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <local_time_min> - The default maximum value provided by the attribute's data type is being overridden with 24
+>>> INFO Attribute: <local_time_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <local_time_max> - The default maximum value provided by the attribute's data type is being overridden with 24
+>>> INFO Attribute: <target_distance_value> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <target_distance_min> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <target_distance_max> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <lat_cas> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <lat_cas> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <lt_cas> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <lt_cas> - The default maximum value provided by the attribute's data type is being overridden with 24
+>>> INFO Attribute: <lat_gal> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <lat_gal> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <lt_gal> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <lt_gal> - The default maximum value provided by the attribute's data type is being overridden with 24
+>>> INFO Attribute: <lat_jun> - The default minimum value provided by the attribute's data type is being overridden with -90
+>>> INFO Attribute: <lat_jun> - The default maximum value provided by the attribute's data type is being overridden with 90
+>>> INFO Attribute: <lt_jun> - The default minimum value provided by the attribute's data type is being overridden with 0
+>>> INFO Attribute: <lt_jun> - The default maximum value provided by the attribute's data type is being overridden with 24
+>>> WARNING Attribute: <ra_resol_max> - This local attribute was not used in an Association.
+>>> WARNING Attribute: <ra_resol_min> - This local attribute was not used in an Association.
+>>> WARNING Attribute: <ra_resol_value> - This local attribute was not used in an Association.
+>>> WARNING Attribute: <particle_spectral_range_min> - The attribute name is duplicated in this local data dictionary.
+>>> WARNING Attribute: <measurement_type> - The 'type' attribute must have at least one permissible value.
+>>> WARNING Attribute: <geometry_type> - The 'type' attribute must have at least one permissible value.
+>>> WARNING Attribute: <measurement_unit> - The terms 'unit', 'units', 'unit_of_measure' should not be used as the rightmost part of an attribute's name.
+>>> WARNING Attribute: <obs_id> - An attribute with the enumeration_flag = true must have at least one permissible value.
+>>> WARNING Attribute: <measurement_type> - An attribute with the enumeration_flag = true must have at least one permissible value.
+>>> WARNING Attribute: <processing_level> - An attribute with the enumeration_flag = false must not have any permissible values.
+>>> WARNING Attribute: <time_scale> - An attribute with the enumeration_flag = true must have at least one permissible value.
+
+ -- LDDTool Execution Summary --
+     11 warning(s)
+     0 error(s)
+     0 fatal error(s)
+
+Input:
+
+     - IM Version: 1L00
+     - PDS4 Flag: true
+     - LDD Flag: true
+     - IM Version: true
+     - Export JSON Flag: true
+
+     - Ingest LDD(s): /home/runner/work/ldd-epncore/ldd-epncore/src/PDS4_EPN_IngestLDD.xml
+
+Output:
+
+     - ./PDS4_EPN_1L00_2000.xsd
+     - ./PDS4_EPN_1L00_2000.sch
+     - ./PDS4_EPN_1L00_2000.xml
+     - ./export/PDS4_PDS_1L00.JSON
+
+>>  INFO Exit(0)
