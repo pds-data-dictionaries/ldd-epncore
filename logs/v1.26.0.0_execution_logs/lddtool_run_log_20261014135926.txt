@@ -1,9 +1,9 @@
 
 >>  INFO LDDTOOL Version: 16.1.3
->>  INFO IM Version Id: 1.21.0.0
+>>  INFO IM Version Id: 1.26.0.0
 >>  INFO IM Namespace Id: pds
->>  INFO IM Label Version Id: 1.27
->>  INFO Date: Wed Oct 14 13:56:29 UTC 2026
+>>  INFO IM Label Version Id: 1.0
+>>  INFO Date: Wed Oct 14 13:59:26 UTC 2026
 >>  INFO PARENT_DIR: /tmp/lddtool-16.1.3/Data/
 
 >>> INFO Init:  - Config.Properties Namespace Id Found:epn
@@ -247,11 +247,13 @@
 >>> INFO Attribute: <modification_date> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <modification_date> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <release_date> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <release_date> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <file_name> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
@@ -328,19 +330,18 @@
 
 Input:
 
-     - IM Version: 1L00
+     - IM Version: 1Q00
      - PDS4 Flag: true
      - LDD Flag: true
-     - IM Version: true
      - Export JSON Flag: true
 
      - Ingest LDD(s): /home/runner/work/ldd-epncore/ldd-epncore/src/PDS4_EPN_IngestLDD.xml
 
 Output:
 
-     - ./PDS4_EPN_1L00_2000.xsd
-     - ./PDS4_EPN_1L00_2000.sch
-     - ./PDS4_EPN_1L00_2000.xml
-     - ./export/PDS4_PDS_1L00.JSON
+     - ./PDS4_EPN_1Q00_2000.xsd
+     - ./PDS4_EPN_1Q00_2000.sch
+     - ./PDS4_EPN_1Q00_2000.xml
+     - ./export/PDS4_PDS_1Q00.JSON
 
 >>  INFO Exit(0)
