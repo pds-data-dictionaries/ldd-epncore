@@ -1,10 +1,10 @@
 
->>  INFO LDDTOOL Version: 16.1.3
->>  INFO IM Version Id: 1.21.0.0
+>>  INFO LDDTOOL Version: 16.3.2
+>>  INFO IM Version Id: 1.26.0.0
 >>  INFO IM Namespace Id: pds
->>  INFO IM Label Version Id: 1.27
->>  INFO Date: Wed Oct 14 13:56:29 UTC 2026
->>  INFO PARENT_DIR: /tmp/lddtool-16.1.3/Data/
+>>  INFO IM Label Version Id: 1.0
+>>  INFO Date: Thu Nov 19 22:30:54 UTC 2026
+>>  INFO PARENT_DIR: /tmp/lddtool-16.3.2/Data/
 
 >>> INFO Init:  - Config.Properties Namespace Id Found:epn
 >>> INFO Init:  - Config.Properties Namespace Id Using:epn
@@ -247,11 +247,13 @@
 >>> INFO Attribute: <modification_date> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <modification_date> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <release_date> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <release_date> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <file_name> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <doi> - This local attribute has a duplicate in the PDS4 data dictionary.
+>>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
 >>> INFO Attribute: <url> - This local attribute has a duplicate in the PDS4 data dictionary.
@@ -309,6 +311,12 @@
 >>> INFO Attribute: <lat_jun> - The default maximum value provided by the attribute's data type is being overridden with 90
 >>> INFO Attribute: <lt_jun> - The default minimum value provided by the attribute's data type is being overridden with 0
 >>> INFO Attribute: <lt_jun> - The default maximum value provided by the attribute's data type is being overridden with 24
+>>> WARNING Rule: <check_time_bounds> - The rule_context 'epn:VESPA_EPNcore_Parameters/epn:time_axis/epn:time_range' is already used by rule <check_time_range_value> in this local data dictionary. Rules are not merged; only the first rule is used. Combine the DD_Rule_Statements into a single DD_Rule.
+>>> WARNING Rule: <check_time_sampling_step_bounds> - The rule_context 'epn:VESPA_EPNcore_Parameters/epn:time_axis/epn:time_sampling_step' is already used by rule <check_time_sampling_step_range_value> in this local data dictionary. Rules are not merged; only the first rule is used. Combine the DD_Rule_Statements into a single DD_Rule.
+>>> WARNING Rule: <check_time_exp_bounds> - The rule_context 'epn:VESPA_EPNcore_Parameters/epn:time_axis/epn:time_exp' is already used by rule <check_time_exp_range_value> in this local data dictionary. Rules are not merged; only the first rule is used. Combine the DD_Rule_Statements into a single DD_Rule.
+>>> WARNING Rule: <check_spectral_bounds> - The rule_context 'epn:VESPA_EPNcore_Parameters/epn:spectral_axis/epn:spectral_range' is already used by rule <check_spectral_range_value> in this local data dictionary. Rules are not merged; only the first rule is used. Combine the DD_Rule_Statements into a single DD_Rule.
+>>> WARNING Rule: <check_spectral_sampling_step_bounds> - The rule_context 'epn:VESPA_EPNcore_Parameters/epn:spectral_axis/epn:spectral_sampling_step' is already used by rule <check_spectral_sampling_step_range_value> in this local data dictionary. Rules are not merged; only the first rule is used. Combine the DD_Rule_Statements into a single DD_Rule.
+>>> WARNING Rule: <check_spectral_resolution_bounds> - The rule_context 'epn:VESPA_EPNcore_Parameters/epn:spectral_axis/epn:spectral_resolution' is already used by rule <check_spectral_resolution_range_value> in this local data dictionary. Rules are not merged; only the first rule is used. Combine the DD_Rule_Statements into a single DD_Rule.
 >>> WARNING Attribute: <ra_resol_max> - This local attribute was not used in an Association.
 >>> WARNING Attribute: <ra_resol_min> - This local attribute was not used in an Association.
 >>> WARNING Attribute: <ra_resol_value> - This local attribute was not used in an Association.
@@ -322,13 +330,13 @@
 >>> WARNING Attribute: <time_scale> - An attribute with the enumeration_flag = true must have at least one permissible value.
 
  -- LDDTool Execution Summary --
-     11 warning(s)
+     17 warning(s)
      0 error(s)
      0 fatal error(s)
 
 Input:
 
-     - IM Version: 1L00
+     - IM Version: 1Q00
      - PDS4 Flag: true
      - LDD Flag: true
      - IM Version: true
@@ -338,9 +346,9 @@ Input:
 
 Output:
 
-     - ./PDS4_EPN_1L00_2000.xsd
-     - ./PDS4_EPN_1L00_2000.sch
-     - ./PDS4_EPN_1L00_2000.xml
-     - ./export/PDS4_PDS_1L00.JSON
+     - ./PDS4_EPN_1Q00_2000.xsd
+     - ./PDS4_EPN_1Q00_2000.sch
+     - ./PDS4_EPN_1Q00_2000.xml
+     - ./export/PDS4_PDS_1Q00.JSON
 
 >>  INFO Exit(0)
